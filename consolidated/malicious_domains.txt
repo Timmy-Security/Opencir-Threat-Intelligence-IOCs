@@ -13,6 +13,7 @@ app-microsoft-edge.com.cn
 applefilevault.com
 applemacios.com
 apricotfilepoint.com
+asp.net
 auramatrixa.com
 auto.c3pool.org
 bananafastfile.com
@@ -26,6 +27,7 @@ byveo.org
 calendly.com
 catalystboostfunding.com
 catalystcapitalharbor.com
+cdn-gstat.com
 cgky6bn6ux5wvlybtmm3z255igt52ljml2ngnc5qp3cnw5jlglamisad.onion
 cloudfilebridge.com
 cloudsendhub.com
@@ -115,6 +117,7 @@ itechx.tel
 iualef.net
 j-gmails.com
 j3bv7g27oramhbxxuv6gl3dcyfmf44qnvju3offdyrap7hurfprq74qd.onion
+jewishchoice.org
 jira.t-in-one.io
 joincroud.info
 js-mirror.com
@@ -132,6 +135,7 @@ lifeones.com
 limefilescope.com
 lohnsteuerhilfe-aktuell-verein.de
 lookinlip.info
+lore.kernel.org
 lumalisboa.com
 lyhizqy2js2eh6ufngkbzntouiikdek5zsdj3qwa22b4z6knpqorgiad.onion
 m365-owa.com
@@ -149,6 +153,7 @@ msft.net
 muvb.net
 myconnectkey.com
 na.businesshellosign.de
+network-privacy.com
 newopt001.oss-cn-hongkong.aliyuncs.com
 nodejs.org
 npm-cache.com
@@ -228,8 +233,9 @@ secure-passkey.com
 service-nowinc.com
 setupmypasskey.com
 shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion
-signspace.cloud
 snapkeep.info
+ssl.com
+sslcdnhost.com
 sslip.io
 start-download.gleeze.com
 stuseamandesilt.org
@@ -237,7 +243,6 @@ swedcorry.stefneyv.com
 syncdatavault.com
 syncmykey.com
 synctimes.australiaeast.cloudapp.azure.com
-t.m-kosche.com
 t90141296286.p.clickup-attachments.com
 teams.onweblive.org
 tesra.shop
@@ -270,6 +275,7 @@ workers.dev
 wslogzimbra.linkpc.net
 wsweb03.blob.core.windows.net
 wt26llpl5k6gok3vnaxmucwgzv2wk3l7nuibbh25clghrtus3p5ctsid.onion
+www.litellm.dev
 x2mails.com
 yandex.ru
 yosemite.jp

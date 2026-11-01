@@ -1,3 +1,4 @@
+http://134.209.82.225:8099/beacon
 http://aab.sportsontheweb.net/x.php
 http://attacker.example/websocket-interactive
 http://bluescry.com/01f96fd710e905ca2326.php
@@ -11,9 +12,11 @@ http://roger99699.xyz/425f1faf4b214434b8a3.php
 http://secure.controlpanel.asia/330311481fe14ab99814.php
 http://spasopro.at/Lsge63sd3/index.php
 http://svclsc.com/ms/index.php
+http://www.litellm.dev/healthcheck
 https://access-ssa-gov.es/ClientSetup.exe
 https://aka.ms/AIIRplaybook
 https://aka.ms/downloadazcopy-v10-linux
+https://aka.ms/rootcert
 https://applemacios.com/vv/install.sh
 https://applemacios.com/vv/update
 https://arxiv.org/abs/2608.13840
@@ -41,6 +44,7 @@ https://oob.moika.tech/payload/mac`
 https://oob.moika.tech/payload/win`
 https://pixeldrain.com/api/file/3v92oJiL
 https://psk1zim.abrdns.com/agentws
+https://raw.githubusercontent.com/letters9813/pythonclient-test/main/domain.txt
 https://share.google/TOKEN
 https://t90141296286.p.clickup-attachments.com/t90141296286/fb39c3a9-3161-40ad-847b-0683e0409d6f/Financial_report.bat
 https://wslogzimbra.linkpc.net/wsstat
